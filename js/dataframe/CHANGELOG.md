@@ -1,5 +1,14 @@
 # @gradio/dataframe
 
+## 0.19.2
+
+### Dependency updates
+
+- @gradio/icons@0.14.0
+- @gradio/atoms@0.16.6
+- @gradio/statustracker@0.10.19
+- @gradio/upload@0.16.17
+
 ## 0.19.1
 
 ### Fixes

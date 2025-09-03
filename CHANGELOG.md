@@ -1,5 +1,16 @@
 # gradio
 
+## 5.45.0
+
+### Features
+
+- [#11763](https://github.com/gradio-app/gradio/pull/11763) [`c9e50d3`](https://github.com/gradio-app/gradio/commit/c9e50d3f071a416b2ca7ba30c7f25539986dfc4a) - Audio subtitles.  Thanks @dawoodkhan82!
+
+### Fixes
+
+- [#11787](https://github.com/gradio-app/gradio/pull/11787) [`b19576c`](https://github.com/gradio-app/gradio/commit/b19576c45f0748ca655864f4d80ff835318f1299) - Allow deleting and uploading additional images to interactive `gr.Gallery` and other fixes.  Thanks @abidlabs!
+- [#11808](https://github.com/gradio-app/gradio/pull/11808) [`076ffe4`](https://github.com/gradio-app/gradio/commit/076ffe40a003d7fa3f9f68dade311f77e4600b71) - Ensure `show_api` works as expected.  Thanks @hannahblair!
+
 ## 5.44.1
 
 ### Features

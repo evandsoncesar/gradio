@@ -2,6 +2,22 @@
 
 ## 0.27.2
 
+### Dependency updates
+
+- @gradio/icons@0.14.0
+- @gradio/atoms@0.16.6
+- @gradio/file@0.12.29
+- @gradio/image@0.22.18
+- @gradio/statustracker@0.10.19
+- @gradio/upload@0.16.17
+- @gradio/video@0.15.1
+- @gradio/gallery@0.15.32
+- @gradio/plot@0.9.23
+- @gradio/dropdown@0.10.3
+- @gradio/textbox@0.10.21
+
+## 0.27.2
+
 ### Features
 
 - [#11764](https://github.com/gradio-app/gradio/pull/11764) [`e6ce731`](https://github.com/gradio-app/gradio/commit/e6ce731bbcf2889c8147e57bc2ca97e2c731ddf5) - Display performance metrics for API/MCP requests in View API page.  Thanks @freddyaboulton!
